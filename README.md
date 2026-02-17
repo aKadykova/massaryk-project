@@ -1,5 +1,4 @@
 # Massaryk-project: jak spustit
-# Autor: Anastasiia Kadykova
 
 ## Backend
 1. Pro spuštění Docker kontejneru pro backendovou část použijte následující příkazy:
